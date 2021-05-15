@@ -1,0 +1,419 @@
+[profile AWS-Cinepolis-Corp.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = AWS Cinepolis Corp
+sso_account_id = 055148195790
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile AWS-Cinepolis-Corp.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile AWS-MX-DEV-02.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = AWS-MX-DEV-02
+sso_account_id = 254635135899
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile AWS-MX-DEV-02.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile AWS-MX-TestUAT-02.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = AWS-MX-TestUAT-02
+sso_account_id = 742343650603
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile AWS-MX-TestUAT-02.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile Audit.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = Audit
+sso_account_id = 676882887878
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile Audit.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile BR-DEV-CNPLS-01.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = BR-DEV-CNPLS-01
+sso_account_id = 230682768426
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile BR-DEV-CNPLS-01.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile BR-PROD-CNPLS-01.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = BR-PROD-CNPLS-01
+sso_account_id = 077957182355
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile BR-PROD-CNPLS-01.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile BR-TestUAT-CNPLS-01.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = BR-TestUAT-CNPLS-01
+sso_account_id = 207384379228
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile BR-TestUAT-CNPLS-01.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile BR_AWS.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = BR_AWS
+sso_account_id = 371225616600
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile BR_AWS.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile CH-DEV-CNPLS-01.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = CH-DEV-CNPLS-01
+sso_account_id = 360256255282
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile CH-DEV-CNPLS-01.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile CH-PROD-CNPLS-01.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = CH-PROD-CNPLS-01
+sso_account_id = 373939465835
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile CH-PROD-CNPLS-01.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile CH-TestUAT-CNPLS-01.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = CH-TestUAT-CNPLS-01
+sso_account_id = 124219304238
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile CH-TestUAT-CNPLS-01.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile CNPLS-SANBOX-01.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = CNPLS-SANBOX-01
+sso_account_id = 134311691815
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile CNPLS-SANBOX-01.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile CNPLS_SANDBOX-02.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = CNPLS_SANDBOX-02
+sso_account_id = 846260940530
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile CNPLS_SANDBOX-02.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile CNSPLS-PROD_DevOps.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = CNSPLS-PROD_DevOps
+sso_account_id = 738697168214
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile CNSPLS-PROD_DevOps.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile Cine-Hoyts.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = Cine Hoyts
+sso_account_id = 483694773131
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile Cine-Hoyts.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile Cinepolis-Klic.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = Cinepolis Klic
+sso_account_id = 272807425354
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile Cinepolis-Klic.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile CinepolisProdSS.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = CinepolisProdSS
+sso_account_id = 181965160294
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile CinepolisProdSS.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile ES-DEV-CNPLS-01.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = ES-DEV-CNPLS-01
+sso_account_id = 751142318465
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile ES-DEV-CNPLS-01.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile ES-PROD-CNPLS-01.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = ES-PROD-CNPLS-01
+sso_account_id = 844653397525
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile ES-PROD-CNPLS-01.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile ES-TestUAT-CNPLS-01.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = ES-TestUAT-CNPLS-01
+sso_account_id = 184278179232
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile ES-TestUAT-CNPLS-01.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile ES_AWS.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = ES_AWS
+sso_account_id = 941666484296
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile ES_AWS.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile IN-DEV-CNPLS-01.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = IN-DEV-CNPLS-01
+sso_account_id = 339385228493
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile IN-DEV-CNPLS-01.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile IN-PROD-CNPLS-01.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = IN-PROD-CNPLS-01
+sso_account_id = 006124882367
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile IN-PROD-CNPLS-01.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile IN-TestUAT-CNPLS-01.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = IN-TestUAT-CNPLS-01
+sso_account_id = 112427783576
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile IN-TestUAT-CNPLS-01.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile LM-DEV-CNPLS-01.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = LM-DEV-CNPLS-01
+sso_account_id = 994805265076
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile LM-DEV-CNPLS-01.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile LM-PROD-CNPLS-01.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = LM-PROD-CNPLS-01
+sso_account_id = 645369880846
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile LM-PROD-CNPLS-01.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile LM-TestUAT-CNPLS-01.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = LM-TestUAT-CNPLS-01
+sso_account_id = 531376869278
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile LM-TestUAT-CNPLS-01.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile Log-archive.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = Log archive
+sso_account_id = 788048638851
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile Log-archive.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile MX-CNPLS-PROD-AWS.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = MX-CNPLS-PROD-AWS
+sso_account_id = 970145146843
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile MX-CNPLS-PROD-AWS.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile MX-DEV-CNPLS-01.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = MX-DEV-CNPLS-01
+sso_account_id = 094647863705
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile MX-DEV-CNPLS-01.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile MX-PROD-CFD.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = MX-PROD-CFD
+sso_account_id = 495509277332
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile MX-PROD-CFD.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile MX-PROD-CNPLS-02.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = MX-PROD-CNPLS-02
+sso_account_id = 493274776267
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile MX-PROD-CNPLS-02.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile MX-TestUAT-CNPLS-01.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = MX-TestUAT-CNPLS-01
+sso_account_id = 845517347232
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile MX-TestUAT-CNPLS-01.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile MX_AWS.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = MX_AWS
+sso_account_id = 035158366589
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile MX_AWS.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile NOProd-CNPLS-SS-01.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = NOProd-CNPLS-SS-01
+sso_account_id = 252466381826
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile NOProd-CNPLS-SS-01.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile Servicios-de-Personal-Cinemas-IA.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = Servicios de Personal Cinemas S.A. de C.V.
+sso_account_id = 848224244859
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile Servicios-de-Personal-Cinemas-IA.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile Servicios-de-Personal-Cinemas-DL.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = Servicios de Personal Cinemas S.A. de C.V.
+sso_account_id = 955152448488
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile Servicios-de-Personal-Cinemas-DL.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile US-DEV-CNPLS-01.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = US-DEV-CNPLS-01
+sso_account_id = 504759074918
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile US-DEV-CNPLS-01.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile US-PROD-CNPLS-01.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = US-PROD-CNPLS-01
+sso_account_id = 649592829654
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile US-PROD-CNPLS-01.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile US-TestUAT-CNPLS-01.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = US-TestUAT-CNPLS-01
+sso_account_id = 107572963064
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile US-TestUAT-CNPLS-01.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile USA_AWS.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = USA_AWS
+sso_account_id = 232554907974
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile USA_AWS.AWSAdministratorAccess
+sso_auto_populated = true
+
+[profile klic-Dev-Cnpls.AWSAdministratorAccess]
+sso_start_url = https://d-906705f878.awsapps.com/start/
+sso_region = us-east-1
+sso_account_name = klic-Dev-Cnpls
+sso_account_id = 950331017244
+sso_role_name = AWSAdministratorAccess
+region = us-east-1
+credential_process = aws-sso-util credential-process --profile klic-Dev-Cnpls.AWSAdministratorAccess
+sso_auto_populated = true

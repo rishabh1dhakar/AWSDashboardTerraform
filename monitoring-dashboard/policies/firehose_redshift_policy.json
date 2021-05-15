@@ -1,0 +1,33 @@
+{
+    "Version": "2012-10-17",  
+    "Statement":
+    [
+        {
+           "Effect": "Allow",
+           "Action": [
+               "kms:Decrypt",
+               "kms:GenerateDataKey"
+           ],
+           "Resource": [
+               "arn:aws:kms:${redshift_region}:${redshift_account_id}:key/${redshift_kms_key_id}"
+           ],
+           "Condition": {
+               "StringEquals": {
+                   "kms:ViaService": ${kms_via_service_list}
+               },
+               "StringLike": {
+                   "kms:EncryptionContext:aws:s3:arn": "arn:aws:s3:::${bucket_name}/*"
+               }
+           }
+        },
+        {
+           "Effect": "Allow",
+           "Action": [
+               "logs:PutLogEvents"
+           ],
+           "Resource": [
+               "arn:aws:logs:*:${current_account_id}:log-group:${log_group_name}*:log-stream:*"
+           ]
+        }
+    ]
+}

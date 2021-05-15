@@ -1,0 +1,43 @@
+Name,AccountID,Role
+AWS Cinepolis Corp,055148195790,
+MX-DEV-CNPLS-01,094647863705,AWSControlTowerExecution
+ES_AWS,941666484296,OrganizationAccountAccessRole
+CNPLS-SANBOX-01,134311691815,OrganizationAccountAccessRole
+BR-PROD-CNPLS-01,077957182355,AWSControlTowerExecution
+NOProd-CNPLS-SS-01,252466381826,AWSControlTowerExecution
+BR_AWS,371225616600,OrganizationAccountAccessRole
+CH-PROD-CNPLS-01,373939465835,AWSControlTowerExecution
+BR-TestUAT-CNPLS-01,207384379228,AWSControlTowerExecution
+IN-PROD-CNPLS-01,006124882367,AWSControlTowerExecution
+ES-TestUAT-CNPLS-01,184278179232,AWSControlTowerExecution
+MX-PROD-CFD,495509277332,OrganizationAccountAccessRole1
+ES-DEV-CNPLS-01,751142318465,AWSControlTowerExecution
+IN-DEV-CNPLS-01,339385228493,AWSControlTowerExecution
+MX-PROD-CNPLS-02,493274776267,AWSControlTowerExecution
+AWS-MX-TestUAT-02,742343650603,AWSControlTowerExecution
+IN-TestUAT-CNPLS-01,112427783576,AWSControlTowerExecution
+MX_AWS,035158366589,OrganizationAccountAccessRole
+CinepolisProdSS,181965160294,AWSControlTowerExecution
+Cine Hoyts,483694773131,OrganizationAccountAccessRole
+US-TestUAT-CNPLS-01,107572963064,AWSControlTowerExecution
+Cinepolis Klic,272807425354,OrganizationAccountAccessRole
+LM-PROD-CNPLS-01,645369880846,AWSControlTowerExecution
+LM-TestUAT-CNPLS-01,531376869278,AWSControlTowerExecution
+CH-TestUAT-CNPLS-01,124219304238,AWSControlTowerExecution
+USA_AWS,232554907974,OrganizationAccountAccessRole
+US-PROD-CNPLS-01,649592829654,AWSControlTowerExecution
+US-DEV-CNPLS-01,504759074918,AWSControlTowerExecution
+Servicios de Personal Cinemas S.A. de C.V.,848224244859,OrganizationAccountAccessRole
+Audit,676882887878,AWSControlTowerExecution
+BR-DEV-CNPLS-01,230682768426,AWSControlTowerExecution
+AWS-MX-DEV-02,254635135899,AWSControlTowerExecution
+klic-Dev-Cnpls,950331017244,AWSControlTowerExecution
+CNPLS_SANDBOX-02,846260940530,AWSControlTowerExecution
+CH-DEV-CNPLS-01,360256255282,AWSControlTowerExecution
+MX-TestUAT-CNPLS-01,845517347232,AWSControlTowerExecution
+LM-DEV-CNPLS-01,994805265076,AWSControlTowerExecution
+Log archive,788048638851,AWSControlTowerExecution
+ES-PROD-CNPLS-01,844653397525,AWSControlTowerExecution
+MX-CNPLS-PROD-AWS,970145146843,AWSControlTowerExecution
+Servicios de Personal Cinemas S.A. de C.V.,955152448488,OrganizationAccountAccessRole
+CNSPLS-PROD_DEVOPS,738697168214,AWSControlTowerExecution
